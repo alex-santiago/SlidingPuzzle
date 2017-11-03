@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SlidingPuzzle</string>
+    <string name="btnSolve">Solve</string>
+    <string name="btnStart">Start Game</string>
+</resources>
